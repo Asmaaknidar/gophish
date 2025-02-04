@@ -21,6 +21,6 @@
 		"filename": "",
 		"level": ""
 	},
-	"trusted_origins":  ["gophish-production-7bb2.up.railway.app"],
+	"trusted_origins":  ["gophish-production-7bb2.up.railway.app"]
 	
 }
