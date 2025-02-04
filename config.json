@@ -10,6 +10,7 @@
 		"use_tls": false,
 		"cert_path": "example.crt",
 		"key_path": "example.key",
+		"trusted_origins": ["gophish-production-7bb2.up.railway.app"]
 		
 		
 	},
@@ -20,7 +21,6 @@
 	"logging": {
 		"filename": "",
 		"level": ""
-	},
-	"trusted_origins":  ["gophish-production-7bb2.up.railway.app"]
+	}
 	
 }
