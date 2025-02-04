@@ -1,7 +1,7 @@
 {
 	"admin_server": {
-		"listen_url": "127.0.0.1:3333",
-		"use_tls": true,
+		"listen_url": "0.0.0.0:3333",
+		"use_tls": false,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
 		"trusted_origins": []
@@ -10,7 +10,8 @@
 		"listen_url": "0.0.0.0:80",
 		"use_tls": false,
 		"cert_path": "example.crt",
-		"key_path": "example.key"
+		"key_path": "example.key",
+		"trusted_origins": ["gophish-production-7bb2.up.railway.app"]
 	},
 	"db_name": "sqlite3",
 	"db_path": "gophish.db",
