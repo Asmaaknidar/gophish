@@ -11,7 +11,7 @@
 		"use_tls": false,
 		"cert_path": "example.crt",
 		"key_path": "example.key",
-		"trusted_origins":  ["http://https://google-secure.com/"]
+		"trusted_origins":  ["https://google-secure.com/"]
 		
 	},
 	"db_name": "sqlite3",
