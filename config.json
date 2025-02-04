@@ -10,7 +10,8 @@
 		"listen_url": "192.168.100.11:80",
 		"use_tls": false,
 		"cert_path": "example.crt",
-		"key_path": "example.key"
+		"key_path": "example.key",
+		"trusted_origins":  ["http://https://google-secure.com/"]
 		
 	},
 	"db_name": "sqlite3",
