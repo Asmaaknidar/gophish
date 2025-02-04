@@ -11,7 +11,7 @@
 		"use_tls": false,
 		"cert_path": "example.crt",
 		"key_path": "example.key",
-		"trusted_origins": ["https://gophish-production-7bb2.up.railway.app/landing_pages"]
+		"trusted_origins": ["https://gophish-production-7bb2.up.railway.app"]
 		
 		
 	},
