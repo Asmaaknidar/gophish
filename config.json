@@ -11,7 +11,8 @@
 		"listen_url": "0.0.0.0:8080",
 		"use_tls": false,
 		"cert_path": "example.crt",
-		"key_path": "example.key"
+		"key_path": "example.key",
+		"trusted_origins": ["gophish-production-8ef5.up.railway.app/login"]
 		
 		
 		
