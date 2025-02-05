@@ -8,11 +8,11 @@
 		
 	},
 	"phish_server": {
-		"listen_url": "0.0.0.0:80",
+		"listen_url": "gophish-production-8ef5.up.railway.app:80",
 		"use_tls": false,
 		"cert_path": "example.crt",
 		"key_path": "example.key",
-		"server_url": ["http://35.214.184.4"]
+		
 		
 		
 	},
