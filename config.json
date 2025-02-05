@@ -11,7 +11,7 @@
 		"listen_url": "gophish-production-8ef5.up.railway.app:80",
 		"use_tls": false,
 		"cert_path": "example.crt",
-		"key_path": "example.key",
+		"key_path": "example.key"
 		
 		
 		
